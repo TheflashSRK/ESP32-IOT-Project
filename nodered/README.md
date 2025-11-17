@@ -8,22 +8,22 @@ This directory contains the Node-RED flow used for parsing telemetry, storing it
 ---
 
 # 🔄 Main Processing Flow
-<img src="../documentation/images/Flow_node-rade.jpeg" width="900">
+<img src="../documentation/images/Flow_node-rade.png" width="900">
 
 ---
 
 # 🔁 Dashboard Restore Flow
-<img src="../documentation/images/node_red_restore_flow.jpeg" width="900">
+<img src="../documentation/images/node_red_restore_flow.png" width="900">
 
 ---
 
 # 📊 Dashboards
 
 ## Main Dashboard
-<img src="../documentation/images/dashboard_main.jpeg" width="900">
+<img src="../documentation/images/dashboard_main.png" width="900">
 
 ## Alerts Dashboard
-<img src="../documentation/images/dashboard_alerts.jpeg" width="900">
+<img src="../documentation/images/dashboard_alerts.png" width="900">
 
 ---
 

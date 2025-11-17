@@ -9,7 +9,7 @@ The ESP32 firmware collects temperature, humidity and WiFi RSSI while supporting
 
 # 🛠 Hardware Setup
 
-<img src="../documentation/images/esp32_hardware.jpeg" width="500">
+<img src="../documentation/images/esp32_hardware.png" width="500">
 
 ### Components:
 - ESP32 DevKitC  

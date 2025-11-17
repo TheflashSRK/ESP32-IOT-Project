@@ -1,7 +1,7 @@
 <h1 align="center">B31OT – IoT Environmental Monitoring System</h1>
 
 <p align="center">
-  <img src="documentation/images/esp32_hardware.jpeg" width="500">
+  <img src="documentation/images/esp32_hardware.png" width="500">
 </p>
 
 <p align="center">
@@ -22,12 +22,12 @@ This project is a complete IoT environmental monitoring platform built using ESP
 documentation/
     B31OT_Report.pdf
     images/
-        dashboard_alerts.jpeg
-        dashboard_main.jpeg
-        esp32_hardware.jpeg
-        Flow_node-rade.jpeg
-        influx_query_results.jpeg
-        node_red_restore_flow.jpeg
+        dashboard_alerts.png
+        dashboard_main.png
+        esp32_hardware.png
+        Flow_node-rade.png
+        influx_query_results.png
+        node_red_restore_flow.png
 esp32/
     firmware.ino
 influx/
@@ -43,25 +43,25 @@ README.md
 # 🧠 System Architecture
 
 ## 📡 Node-RED Main Flow
-<img src="documentation/images/Flow_node-rade.jpeg" width="900">
+<img src="documentation/images/Flow_node-rade.png" width="900">
 
 ## 🔄 Dashboard Restore Flow
-<img src="documentation/images/node_red_restore_flow.jpeg" width="900">
+<img src="documentation/images/node_red_restore_flow.png" width="900">
 
 ---
 
 # 🖥 Dashboards
 
 ## 📊 Main Dashboard
-<img src="documentation/images/dashboard_main.jpeg" width="900">
+<img src="documentation/images/dashboard_main.png" width="900">
 
 ## 🚨 Alerts Dashboard
-<img src="documentation/images/dashboard_alerts.jpeg" width="900">
+<img src="documentation/images/dashboard_alerts.png" width="900">
 
 ---
 
 # 📈 InfluxDB Query Results
-<img src="documentation/images/influx_query_results.jpeg" width="900">
+<img src="documentation/images/influx_query_results.png" width="900">
 
 Results stored in:
 ```
