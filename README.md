@@ -40,6 +40,9 @@ README.md
 
 ---
 
+# 📸 Proof of Concept - PoC
+[![POC Video](https://img.icons8.com/fluency/256/video.png)](https://github.com/TheflashSRK/ESP32-IOT-Project/raw/refs/heads/main/documentation/POC.mp4)
+
 # 🧠 System Architecture
 
 ## 📡 Node-RED Main Flow
