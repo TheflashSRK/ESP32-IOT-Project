@@ -41,12 +41,7 @@ README.md
 ---
 
 # 📸 Proof of Concept - PoC
-[![POC Video](https://img.icons8.com/fluency/256/video.png)](https://github.com/TheflashSRK/ESP32-IOT-Project/raw/refs/heads/main/documentation/POC.mp4)
-<p align="center">
-  <video controls style="max-width: 900px; width: 100%;">
-    <source src="https://github.com/TheflashSRK/ESP32-IOT-Project/raw/refs/heads/main/documentation/POC.mp4" type="video/mp4">
-  </video>
-</p>
+https://github.com/user-attachments/assets/24f35be6-9f88-4529-a10f-f0caf39de478
 
 # 🧠 System Architecture
 
